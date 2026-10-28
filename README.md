@@ -23,7 +23,7 @@ Bellbuoy TV runs on Windows 10 and 11. If Windows says "Windows protected your P
 - **SiriusXM**, with your own account: every channel, shows and podcasts, and live game scores.
 - **Audio description**, found and turned on automatically wherever a service has it.
 
-Everything is built for the keyboard and works with NVDA, JAWS and Narrator. The full guide comes with the program: press F1, or open Help, Guide.
+Everything is built for the keyboard and works with NVDA, JAWS and Narrator. The full guide comes with the program: open the Help menu, then "Guide (README)". F1 lists the keys.
 
 ## About
 
