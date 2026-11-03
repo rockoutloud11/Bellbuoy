@@ -12,8 +12,13 @@ Bellbuoy TV puts your TV, movies, music and radio in plain lists you can move th
 - **Radio:** local AM and FM stations and tens of thousands of internet stations, with song names.
 - **SiriusXM**, with your own account: every channel, shows and podcasts, and live game scores.
 - **Spotify**, with your own account: songs, albums, artists and playlists, Made For You, your library and podcasts; like songs and make and edit playlists.
+- **Apple Music**, with your Apple Music subscription: search, For You, charts, your library and playlists.
 - **YouTube Music:** songs, albums, artists and playlists, and your own library with your Google account.
 - **Audio description:** each service's described titles in one place, played with description on.
+
+## Your choice of services
+
+Settings has a list of every service: uncheck the ones you don't use and they're left out. Put your ZIP code in Settings (where you actually are) and YouTube TV's local channels play even on wireless home internet.
 
 ## Download
 
@@ -42,6 +47,8 @@ Bellbuoy TV is an independent, free project. It is not made by, endorsed by, spo
 
 **It doesn't take anything.** You need your own account and subscription for each paid service, and Bellbuoy only shows what your own account can already watch or hear. Every title plays in the service's own player, with its own copy protection. Bellbuoy doesn't get around copy protection, and doesn't record, download, save or share anything you watch or hear. It doesn't share accounts or unlock anything your plan doesn't include.
 
-**Your privacy.** Your passwords are typed on each service's own sign-in page; Bellbuoy never sees, stores or sends them. Sign-ins are kept on your own computer, in Bellbuoy's own folder. Bellbuoy has no server of its own and collects nothing about you: no accounts, no tracking, no usage reports. It talks only to the services you use, public radio guides and music catalogs, and GitHub, to check for new versions.
+**Your privacy.** Your passwords are typed on each service's own sign-in page; Bellbuoy never sees, stores or sends them. Sign-ins are kept on your own computer, in Bellbuoy's own folder. Bellbuoy has no server of its own and collects nothing about you: no accounts, no tracking, no usage reports. It talks only to the services you use, public radio guides and music catalogs, and GitHub, to check for new versions. Logs of what went wrong stay on your own computer.
 
-**No warranty.** Bellbuoy TV is free and comes as it is, with no warranty of any kind. Use it at your own risk. Each service's own terms still apply to your account.
+**Your responsibility.** Each service's own terms still apply to your account, and following them is up to you. The ZIP code setting is for telling a service where you actually are; services such as YouTube TV only allow local channels for your own area. Bellbuoy and its author don't permit, encourage or take responsibility for any use that breaks a service's terms, copyright or the law.
+
+**No warranty.** Bellbuoy TV is free and comes as it is, with no warranty of any kind, express or implied. Use it at your own risk: its author isn't liable for any loss or problem with your accounts, subscriptions, devices or data that comes from using it. A service may change its website or terms at any time, and part of Bellbuoy may stop working until it's updated.
