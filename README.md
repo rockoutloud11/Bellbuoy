@@ -19,7 +19,7 @@ Bellbuoy TV puts your TV, movies, music and radio in plain lists you can move th
 
 ## Your choice of services
 
-Settings has a list of every service: uncheck the ones you don't use and they're left out. Put your ZIP code in Settings (where you actually are) and YouTube TV's local channels play even on wireless home internet.
+Settings has a list of every service: uncheck the ones you don't use and they're left out. Put your ZIP code in Settings and YouTube TV's local channels play even on wireless home internet.
 
 ## Download
 
@@ -38,7 +38,11 @@ The full guide is the README.txt that comes with Bellbuoy TV, also under Help, G
 
 ## Why it exists
 
-The apps and websites of most streaming services are hard, and sometimes impossible, to use with a screen reader, and they often get worse with each redesign. Bellbuoy TV gives people who use NVDA, JAWS and Narrator plain lists and a keyboard player for services they already pay for.
+The apps and websites of most streaming services are hard, and sometimes impossible, to use with a screen reader. Finding a show can mean tabbing through hundreds of unlabeled buttons and pictures, menus that never announce themselves, and players with controls a screen reader can't reach, and a redesign can undo whatever worked last month. People who are blind or visually impaired pay for the same subscriptions as everyone else, and deserve to be able to use them.
+
+Bellbuoy TV exists to make the services you already pay for easier to get to: plain lists you move through with the arrow keys, and a player you work from the keyboard, for NVDA, JAWS and Narrator users.
+
+It was made to help people, and never to harm anyone: not the services, not the people who make what you watch and hear, and not you. It doesn't take anything you haven't paid for, it doesn't get around anyone's protections, and it doesn't collect anything about you. It's just a way in for people who were being left out.
 
 ## About
 
@@ -50,6 +54,6 @@ Bellbuoy TV is an independent, free project. It is not made by, endorsed by, spo
 
 **Your privacy.** Your passwords are typed on each service's own sign-in page; Bellbuoy never sees, stores or sends them. Sign-ins are kept on your own computer, in Bellbuoy's own folder. Bellbuoy has no server of its own and collects nothing about you: no accounts, no tracking, no usage reports. It talks only to the services you use, public radio guides and music catalogs, and GitHub, to check for new versions. Logs of what went wrong stay on your own computer.
 
-**Your responsibility.** Each service's own terms still apply to your account, and following them is up to you. The ZIP code setting is for telling a service where you actually are; services such as YouTube TV only allow local channels for your own area. Bellbuoy and its author don't permit, encourage or take responsibility for any use that breaks a service's terms, copyright or the law.
+**Your responsibility.** Each service's own terms still apply to your account, and following them is up to you. Bellbuoy and its author don't permit, encourage or take responsibility for any use that breaks a service's terms, copyright or the law. If you use Bellbuoy, or any of its features, in a way it isn't meant for, you do so entirely at your own risk, and you alone are responsible for it.
 
 **No warranty.** Bellbuoy TV is free and comes as it is, with no warranty of any kind, express or implied. Use it at your own risk: its author isn't liable for any loss or problem with your accounts, subscriptions, devices or data that comes from using it. A service may change its website or terms at any time, and part of Bellbuoy may stop working until it's updated.
