@@ -8,13 +8,14 @@ Bellbuoy TV puts your TV, movies, music and radio in plain lists you can move th
 
 - **Your Plex server**, plus Plex's free movies and Live TV.
 - **Free services:** Pluto TV, Tubi, PBS, Xumo Play, The Roku Channel and YouTube.
-- **Your own subscriptions:** Prime Video, Paramount+, HBO Max, discovery+, Peacock, Apple TV, Disney+ (with Hulu and ESPN) and YouTube TV (live channels, guide, recordings, and recording shows).
+- **Your own subscriptions:** Prime Video, Paramount+, HBO Max, discovery+, Peacock, Apple TV, Disney+ (with Hulu and ESPN) and YouTube TV (live channels you can pause and go back in, guide, recordings, and recording shows).
 - **Radio:** local AM and FM stations and tens of thousands of internet stations, with song names.
 - **SiriusXM**, with your own account: every channel, shows and podcasts, and live game scores.
 - **Spotify**, with your own account: songs, albums, artists and playlists, Made For You, your library and podcasts; like songs and make and edit playlists.
 - **Apple Music**, with your Apple Music subscription: search, For You, charts, your library and playlists.
 - **YouTube Music:** songs, albums, artists and playlists, and your own library with your Google account.
 - **Audio description:** each service's described titles in one place, played with description on.
+- **Your own files:** videos, music and playlists on your computer or a drive, with album art, in folders you choose.
 
 ## Your choice of services
 
