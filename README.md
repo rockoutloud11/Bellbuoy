@@ -8,7 +8,7 @@ Bellbuoy TV puts your TV, movies, music and radio in plain lists you can move th
 
 - **Your Plex server**, plus Plex's free movies and Live TV.
 - **Free services:** Pluto TV, Tubi, PBS, Xumo Play, The Roku Channel and YouTube.
-- **Your own subscriptions:** Prime Video, Paramount+, HBO Max, discovery+, Peacock, Apple TV, Disney+ (with Hulu and ESPN) and YouTube TV (live channels you can pause and go back in, guide, recordings, and recording shows).
+- **Your own subscriptions:** Netflix, Prime Video, Paramount+, HBO Max, discovery+, Peacock, Apple TV, Disney+ (with Hulu and ESPN) and YouTube TV (live channels you can pause and go back in, guide, recordings, and recording shows).
 - **Radio:** local AM and FM stations and tens of thousands of internet stations, with song names.
 - **SiriusXM**, with your own account: every channel, shows and podcasts, and live game scores.
 - **Spotify**, with your own account: songs, albums, artists and playlists, Made For You, your library and podcasts; like songs and make and edit playlists.
@@ -46,7 +46,7 @@ It was made to help people, and never to harm anyone: not the services, not the 
 
 ## About
 
-Bellbuoy TV is an independent, free project. It is not made by, endorsed by, sponsored by or affiliated with any of the services it works with, including Plex, Pluto TV, Tubi, PBS, Xumo Play, The Roku Channel, Amazon and Prime Video, Paramount+, HBO Max, discovery+, Peacock, Apple, Disney+, Hulu, ESPN, YouTube, YouTube TV, YouTube Music, Google, Spotify, SiriusXM, iHeartRadio, TuneIn, Audacy, radio.net, Streema, US Radio, Radio Browser and Online Radio Box. Their names and trademarks belong to their owners and are used only to say what Bellbuoy works with.
+Bellbuoy TV is an independent, free project. It is not made by, endorsed by, sponsored by or affiliated with any of the services it works with, including Plex, Pluto TV, Tubi, PBS, Xumo Play, The Roku Channel, Netflix, Amazon and Prime Video, Paramount+, HBO Max, discovery+, Peacock, Apple, Disney+, Hulu, ESPN, YouTube, YouTube TV, YouTube Music, Google, Spotify, SiriusXM, iHeartRadio, TuneIn, Audacy, radio.net, Streema, US Radio, Radio Browser and Online Radio Box. Their names and trademarks belong to their owners and are used only to say what Bellbuoy works with.
 
 **It's unofficial.** Except for Plex, which offers its own interface for apps like this, Bellbuoy works with each service's website the way a web browser does, without the service's permission or support. When a service changes its website, part of Bellbuoy can stop working until it's updated; Bellbuoy tells you when an update is ready. Please don't contact a service's customer support about Bellbuoy.
 
