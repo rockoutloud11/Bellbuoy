@@ -15,8 +15,13 @@ Bellbuoy TV puts your TV, movies, music and radio in plain lists you can move th
 - **Spotify**, with your own account: songs, albums, artists and playlists, Made For You, your library and podcasts; like songs and make and edit playlists.
 - **Apple Music**, with your Apple Music subscription: search, For You, charts, your library and playlists.
 - **YouTube Music:** songs, albums, artists and playlists, and your own library with your Google account.
+- **Podcasts:** any podcast, free with no account; follow shows, hear their newest episodes, and pick up where you left off.
 - **Audio description:** each service's described titles in one place, played with description on.
 - **Your own files:** videos, music and playlists on your computer or a drive, with album art, in folders you choose.
+
+## Playlists across services
+
+Line things up from any service in one playlist: a movie on Netflix, then one on Paramount+, then an episode on Peacock; or songs from Spotify, YouTube Music and your own files. Control+U adds the selected item to Up next; Control+Shift+U adds it to a playlist of your own.
 
 ## Your choice of services
 
